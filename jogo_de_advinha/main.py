@@ -13,10 +13,9 @@ lang = input("")
 
 if lang == "1":
     advinha_PTBR()
+    print("Desenvolvido por Wilian ALbrecht")
 if lang == "2":
     advinha_EN()
-else:
-    print("digite uma opção valida.")
-    print("type a valid option.")
+    print("Developed by Wilian ALbrecht")
 
-print("Developed by Wilian ALbrecht")
+
