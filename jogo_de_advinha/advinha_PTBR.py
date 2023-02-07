@@ -3,7 +3,7 @@ from random import randint
 
 def advinha_PTBR():
     
-    os.system("cls") or None
+    os.system("cls")
 
     print("Voce escolheu português... \n")
     print("Como jogar: ")

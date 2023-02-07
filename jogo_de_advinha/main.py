@@ -2,6 +2,7 @@
 
 # faça um mini jogo em que a maquina escolhe aleatoriamente um numero e o usuario tente advinhar, no fim escreva na tela a quantidade de vezes que o usuario tentou até acertar o numero correto
 
+
 from advinha_PTBR import *
 from advinha_EN import *
 

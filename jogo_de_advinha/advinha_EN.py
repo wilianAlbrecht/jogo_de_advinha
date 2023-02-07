@@ -3,7 +3,7 @@ from random import randint
 
 
 def advinha_EN():
-    os.system("cls") or None
+    os.system("cls")
 
     print("You chose english... \n")
     print("How to play: ")
