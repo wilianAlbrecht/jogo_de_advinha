@@ -7,16 +7,16 @@ from advinha_PTBR import *
 from advinha_EN import *
 
 
-print("1-português")
-print("2-English")
+print("1-Português.")
+print("2-English.")
 
 lang = input("")
 
 if lang == "1":
     advinha_PTBR()
-    print("Desenvolvido por Wilian ALbrecht")
+    print("Desenvolvido por Wilian ALbrecht.")
 if lang == "2":
     advinha_EN()
-    print("Developed by Wilian ALbrecht")
+    print("Developed by Wilian ALbrecht.")
 
 
